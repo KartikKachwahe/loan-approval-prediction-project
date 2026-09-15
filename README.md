@@ -5,7 +5,7 @@
 This project develops a supervised machine-learning model to predict whether a loan application will be approved using applicant and loan-related information.
 
 The project focuses on data preprocessing, class-imbalance handling, model comparison, evaluation, threshold selection, and business interpretation.
-
+ 
 ---
 
 ## Project Objective
