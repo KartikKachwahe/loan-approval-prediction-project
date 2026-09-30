@@ -8,7 +8,7 @@ The project focuses on data preprocessing, class-imbalance handling, model compa
  
 ---
 
-## Project Objective
+## Project Objective 
 
 The main objective is to build a reliable classification model that predicts loan approval using borrower features.
 
